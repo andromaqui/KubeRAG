@@ -1,0 +1,2 @@
+- set up k8s cluster
+- how to connect k8s cluster
